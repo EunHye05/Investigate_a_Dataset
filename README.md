@@ -6,6 +6,6 @@ To investigate a dataset project I will analyze data about “TMDB movie”. I w
 
 Here are the lists of my questions for this data set project:
 
-What are the most frequent genres?
-Is higher popularity make higher in revenues?
-How many genres were released each year?
+1. What are the most frequent genres?
+2. Is higher popularity make higher in revenues?
+3. How many genres were released each year?
